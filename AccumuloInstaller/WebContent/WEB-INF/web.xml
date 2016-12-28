@@ -18,6 +18,6 @@
   <servlet-mapping>
      <servlet-name>accumuloinstaller</servlet-name>
      <url-pattern>/accumuloinstaller</url-pattern>
-     <url-pattern>home.jsp</url-pattern>
+     
     </servlet-mapping>
 </web-app>
